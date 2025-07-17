@@ -27,9 +27,9 @@ This repository contains Abaqus input files and user subroutines developed to si
 
 ## Requirements
 
-1. Abaqus CAE (version 2025 or later)
-2. Fortran compiler compatible with Abaqus
-3. Python or MATLAB (optional, for data analysis)
+- Abaqus CAE (version 2025 or later)
+- Fortran compiler compatible with Abaqus
+- Python or MATLAB (optional, for data analysis)
 
 ## Citation
 If you use this repository in your research, please cite:
@@ -40,24 +40,24 @@ Example:
 Bhowmick, A., et al. (2025). Electro-Chemo-Mechanical Coupling Unlocks New Insights into Lithium Plating and Aging Upon Mechanical Stress. -------,---, ---. DOI: 10.xxxx/xxxxx
 
 ## Contact Information
-### Research Group: 
+- Research Group: 
 Energy Mechanics and Sustainability Laboratory (EMSLab)
 
 University of Delaware
 
 Newark, Delaware, 19716
-### Principal Investigator:
+- Principal Investigator:
 Prof. Jun Xu
 
 Email: junxu@udel.edu
-### Postdoctoral Researcher / Maintainer:
+- Postdoctoral Researcher / Maintainer:
 Dr. Amit Bhowmick
 
 Email: amitbhowmick555@gmail.com
 
 ## Sponsor:
 Startup funding of the University of Delaware and the research project with Dassault Systèmes
-### Contact information (Abaqus)
+- Contact information (Abaqus)
 
 Dr. Youngwon HAHN
 
