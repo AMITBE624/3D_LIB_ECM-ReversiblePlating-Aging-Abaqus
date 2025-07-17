@@ -20,7 +20,10 @@ This repository contains Abaqus input files and user subroutines developed to si
    ```bash
    git clone https://github.com/yourusername/3D_LIB_ECM-ReversiblePlating-Aging-Abaqus.git
 2. Compile and run user subroutines according to Abaqus documentation.
-3. Analyze output data using your preferred tools.
+   ```bash
+   @call "C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.5.281\windows\bin\compilervars" intel64
+   abaqus -j 3D_ECHMECH_Model_v12.inp -user usersublplfld.f -cpus 20 -int
+4. Analyze output data using your preferred tools.
 
 ## Requirements
 
