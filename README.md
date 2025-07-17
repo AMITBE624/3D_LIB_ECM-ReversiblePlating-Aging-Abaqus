@@ -40,17 +40,20 @@ Example:
 Bhowmick, A., et al. (2025). Electro-Chemo-Mechanical Coupling Unlocks New Insights into Lithium Plating and Aging Upon Mechanical Stress. -------,---, ---. DOI: 10.xxxx/xxxxx
 
 ## Contact Information
-- Research Group: 
+- Research Group:
+
 Energy Mechanics and Sustainability Laboratory (EMSLab)
 
 University of Delaware
 
 Newark, Delaware, 19716
 - Principal Investigator:
+
 Prof. Jun Xu
 
 Email: junxu@udel.edu
 - Postdoctoral Researcher / Maintainer:
+
 Dr. Amit Bhowmick
 
 Email: amitbhowmick555@gmail.com
