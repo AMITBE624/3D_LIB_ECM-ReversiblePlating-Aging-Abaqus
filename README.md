@@ -42,27 +42,27 @@ Bhowmick, A., et al. (2025). Electro-Chemo-Mechanical Coupling Unlocks New Insig
 ## Contact Information
 - Research Group:
 
-Energy Mechanics and Sustainability Laboratory (EMSLab)
+  Energy Mechanics and Sustainability Laboratory (EMSLab)
 
-University of Delaware
+  University of Delaware
 
-Newark, Delaware, 19716
+  Newark, Delaware, 19716
 - Principal Investigator:
 
-Prof. Jun Xu
+  Prof. Jun Xu
 
-Email: junxu@udel.edu
+  Email: junxu@udel.edu
 - Postdoctoral Researcher / Maintainer:
 
-Dr. Amit Bhowmick
+  Dr. Amit Bhowmick
 
-Email: amitbhowmick555@gmail.com
+  Email: amitbhowmick555@gmail.com
 
 ## Sponsor:
 Startup funding of the University of Delaware and the research project with Dassault Systèmes
 - Contact information (Abaqus)
 
-Dr. Youngwon HAHN
+  Dr. Youngwon HAHN
 
-Email: Youngwon.HAHN@3ds.com
+  Email: Youngwon.HAHN@3ds.com
 
