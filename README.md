@@ -1,17 +1,17 @@
 # 3D_LIB_ECM-ReversiblePlating-Aging-Abaqus
 ## Overview
-This repository contains Abaqus input files and user subroutines developed to simulate electro-chemo-mechanical (ECM) coupling in lithium-ion batteries. The models focus on analyzing lithium plating, swelling force evolution, and aging behavior under mechanical constraint, as presented in the related publication.
+This repository contains Abaqus input files and user subroutines developed to simulate electro-chemo-mechanical (ECM) models for lithium-ion batteries. The models focus on analyzing reversible lithium plating, swelling force evolution, and aging behavior under mechanical constraint, as presented in the related publication mentioned below.
 
 ## Contents
 - `input_files/` – Abaqus input files for constrained pouch cell simulations.
-- `subroutines/` – User-defined subroutines (UMAT/UEL) for ECM coupling.
+- `subroutines/` – User-defined subroutines for ECM model.
 - `data/` – Experimental and simulation data.
 - `figures/` – Visualizations related to the simulation results.
 - `docs/` – Additional documentation and paper references.
 
 ## Features
 - Coupled electrochemical and mechanical modeling.
-- Simulation of lithium plating and stripping dynamics.
+- Simulation of lithium plating and stripping.
 - Swelling force prediction during battery cycling.
 - Aging characterization under mechanical constraints.
 
@@ -46,12 +46,10 @@ Energy Mechanics and Sustainability Laboratory (EMSLab)
 University of Delaware
 
 Newark, Delaware, 19711
-
 ### Principal Investigator:
 Prof. Jun Xu
 
 Email: junxu@udel.edu
-
 ### Postdoctoral Researcher / Maintainer:
 Dr. Amit Bhowmick
 
@@ -59,4 +57,9 @@ Email: amitbhowmick555@gmail.com
 
 ## Sponsor:
 Startup funding of the University of Delaware and the research project with Dassault Systèmes
+### Contact information (Abaqus)
+
+Dr. Youngwon HAHN
+
+Email: Youngwon.HAHN@3ds.com
 
