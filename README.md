@@ -18,4 +18,4 @@ This repository contains Abaqus input files and user subroutines developed to si
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ECM-LithiumPlating-Abaqus.git
+   git clone https://github.com/yourusername/3D_LIB_ECM-ReversiblePlating-Aging-Abaqus.git
