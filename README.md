@@ -19,3 +19,36 @@ This repository contains Abaqus input files and user subroutines developed to si
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/3D_LIB_ECM-ReversiblePlating-Aging-Abaqus.git
+2. Compile and run user subroutines according to Abaqus documentation.
+3. Analyze output data using your preferred tools.
+
+## Requirements
+
+1. Abaqus CAE (version 2025 or later)
+2. Fortran compiler compatible with Abaqus
+3. Python or MATLAB (optional, for data analysis)
+
+## Citation
+If you use this repository in your research, please cite:
+
+Author(s). (Year). Electro-Chemo-Mechanical Coupling Unlocks New Insights into Lithium Plating and Aging Upon Mechanical Stress. Journal/Conference Name, Volume(Issue), pages. DOI: [insert DOI here]
+
+Example:
+Bhowmick, A., et al. (2025). Electro-Chemo-Mechanical Coupling Unlocks New Insights into Lithium Plating and Aging Upon Mechanical Stress. -------,---, ---. DOI: 10.xxxx/xxxxx
+
+## Contact Information
+### Research Group: 
+Energy Storage & Mechanics Lab
+University of Delaware
+
+### Principal Investigator:
+Prof. Jun Xu
+Email: junxu@udel.edu
+
+### Postdoctoral Researcher / Maintainer:
+Amit Bhowmick
+Email: amitbhowmick555@gmail.com
+
+## Sponsor:
+Startup funding of the University of Delaware and the research project with Dassault Systèmes
+
