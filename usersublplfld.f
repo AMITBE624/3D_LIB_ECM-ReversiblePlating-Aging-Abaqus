@@ -117,7 +117,7 @@ c           Read properties for LPL current definitions -- START
 
 c  Compute the lithium plating current
 c-----------------------------------------------------------------------------Plating/Stripping
-c--      cfIrev: rate constant to define LPL irev. concentration  - eq(16) in paper <>
+c--      cfIrev: rate constant to define LPL irev. concentration  - eq(15) in paper <>
       cfIrev = 32E-7
 c
       aI0_LPL = 0.076289949

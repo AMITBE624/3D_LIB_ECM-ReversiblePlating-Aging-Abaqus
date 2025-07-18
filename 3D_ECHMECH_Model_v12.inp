@@ -14008,6 +14008,7 @@ ANODE, 1000
 **NSET-----------,-DOF1,-DOF2,------VALUE,
   refnode_bot      ,    9,    9,        0.0,
 nall, 11, 11, 298.15				
+BOTSRF, 1, 3, 0
 **
 *CECURRENT, OP=NEW
 REFNODE, 9, 0.0
@@ -14042,6 +14043,7 @@ SAT, FLVEL
 1.e-2, 1.0, 1e-3, 1.0
 *CONTROLS, PARAMETER=FIELD, convergence check=relaxed
 *BOUNDARY, OP=NEW
+refnode_bot      ,    9,    9,        0.0,
 TOPSRF, 1, 2, 0.
 TOPSRF, 3, 3, -7.0e-6
 BOTSRF, 1, 3, 0
