@@ -62,7 +62,7 @@ Bhowmick, A., et al. (2025). Electro-Chemo-Mechanical Coupling Unlocks New Insig
 Startup funding of the University of Delaware and the research project with Dassault Systèmes
 - Contact information (Abaqus)
 
-  Dr. Youngwon HAHN
+  Dr. Youngwon Hahn
 
   Email: Youngwon.HAHN@3ds.com
 
